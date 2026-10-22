@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 17: Automating PDFs &amp; Word Documents
 This project demonstrates how to automate common tasks involving PDF and Word documents
 using Python. It leverages `PyPDF2` for PDF manipulation and `python-docx` for Word document
@@ -117,3 +118,6 @@ structured report in PDF or Word.
 * **Document Comparison**: Use Python to compare two versions of a document (textually).
 * **Document Search/Indexing**: Build a script to index text content from a directory of
 documents for quick searching.
+=======
+# 663380577-8_Sec2_script_programming
+>>>>>>> 9a6aa10 (Upload script programming project)

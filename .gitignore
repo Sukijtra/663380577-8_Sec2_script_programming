@@ -19,3 +19,10 @@ env/
 documents/output_report.docx
 documents/merged_output.pdf
 documents/*_part_*.pdf # For split PDF parts if implemented
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
