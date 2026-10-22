@@ -38,7 +38,7 @@ building-enhanced-task-manager/
 
 ```bash
 git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-cd 663380577-8_Sec2_script_programming/building-enhanced-task-manager
+cd "663380577-8_Sec2_script_programming/LabX Advance/Week 11 - Project Planning & Design (Enhanced Task Manager)"
 
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate

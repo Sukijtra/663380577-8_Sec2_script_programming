@@ -33,7 +33,7 @@ ID: 1 | Description: Learn OOP classes | Status: Pending        # print(task)
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-    cd 663380577-8_Sec2_script_programming/my-oop-task-manager
+    cd "663380577-8_Sec2_script_programming/Class Activity/Class Activity 2 - OOP Fundamentals & Refactoring the CLI Task Manager"
     ```
 2. **Run the application** (no external libraries needed):
     ```bash

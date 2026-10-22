@@ -20,7 +20,7 @@ This project implements an "Agentic Spreadsheet Processor" that performs a serie
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-    cd 663380577-8_Sec2_script_programming/agentic-spreadsheet-processor
+    cd "663380577-8_Sec2_script_programming/LabX Advance/Week 10 - Advanced Spreadsheet Automation"
     ```
 2. **Install Dependencies:**
     ```bash

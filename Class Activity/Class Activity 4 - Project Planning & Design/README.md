@@ -38,7 +38,7 @@ This version is designed to evolve from the previous Task Manager, integrating a
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-    cd 663380577-8_Sec2_script_programming/enhanced-task-manager-design
+    cd "663380577-8_Sec2_script_programming/Class Activity/Class Activity 4 - Project Planning & Design"
     ```
 2. **Run the application** (no external libraries needed):
     ```bash

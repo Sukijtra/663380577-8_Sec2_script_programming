@@ -17,7 +17,7 @@ This project demonstrates an "Agentic Data Processor" that orchestrates complex 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-   cd 663380577-8_Sec2_script_programming/agentic-data-processor
+   cd "663380577-8_Sec2_script_programming/LabX Advance/Week 8 - Agentic Data Processing"
    ```
 2. **Install Dependencies:**
    Only built-in Python modules (`csv`, `json`, `logging`) are used. A virtual environment is still recommended:

@@ -19,7 +19,7 @@ You can add, list, complete, and delete tasks, and your tasks are saved automati
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-    cd 663380577-8_Sec2_script_programming/my-task-manager
+    cd "663380577-8_Sec2_script_programming/Class Activity/Class Activity 1 - Building a Simple CLI Application"
     ```
 2. **Run the application** (no external libraries needed):
     ```bash

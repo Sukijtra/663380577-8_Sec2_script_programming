@@ -23,7 +23,7 @@ This project introduces an "Agentic Communication Automator" that executes email
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-    cd 663380577-8_Sec2_script_programming/agentic-comm-automator
+    cd "663380577-8_Sec2_script_programming/LabX Advance/Week 12 - Agentic Communication Workflows"
     ```
 2. **Install Dependencies:**
     ```bash

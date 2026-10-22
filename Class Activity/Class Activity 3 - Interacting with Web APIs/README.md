@@ -26,7 +26,7 @@ This project uses the `requests` library to fetch and process JSON data from the
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Sukijtra/663380577-8_Sec2_script_programming.git
-    cd 663380577-8_Sec2_script_programming/my-api-fetcher
+    cd "663380577-8_Sec2_script_programming/Class Activity/Class Activity 3 - Interacting with Web APIs"
     ```
 2. **Install dependencies:**
     ```bash
