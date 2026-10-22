@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+# Jupyter/Colab notebooks
+.ipynb_checkpoints/
+# VS Code workspace settings
+.vscode/
+
+# Environment
+.env
+# Google service account key (never commit)
+configs/service_account.json
+
+# macOS
+.DS_Store
+
+# Output data files
+data/output_report.xlsx

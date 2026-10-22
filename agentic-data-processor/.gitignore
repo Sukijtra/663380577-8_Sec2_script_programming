@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+# Jupyter/Colab notebooks
+.ipynb_checkpoints/
+# VS Code workspace settings
+.vscode/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Generated Data Files
+data/processed_sales_by_customer.csv
+data/sales_data.json
+data/updated_inventory.json
+# Directory for audit reports
+/reports/

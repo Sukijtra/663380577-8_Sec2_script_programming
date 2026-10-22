@@ -1,0 +1,107 @@
+{
+    "input_file": "data/input_data.xlsx",
+    "output_file": "data/output_report.xlsx",
+    "tasks": [
+        {
+            "type": "copy_data",
+            "source_sheet": "SalesData",
+            "dest_sheet": "Raw Data"
+        },
+        {
+            "type": "calculate_column",
+            "sheet": "Raw Data",
+            "target_column": "D",
+            "header": "Total Revenue",
+            "start_row": 2,
+            "formula": "=B{row}*C{row}",
+            "number_format": "#,##0.00"
+        },
+        {
+            "type": "conditional_format",
+            "sheet": "Raw Data",
+            "range": "D2:D100",
+            "rule_type": "color_scale",
+            "min_color": "F8696B",
+            "mid_color": "FFEB84",
+            "max_color": "63BE7B"
+        },
+        {
+            "type": "calculate_column",
+            "sheet": "Raw Data",
+            "target_column": "E",
+            "header": "Status",
+            "start_row": 2,
+            "formula": "=IF(D{row}>1000,\"High Value\",\"Standard\")"
+        },
+        {
+            "type": "conditional_format",
+            "sheet": "Raw Data",
+            "range": "E2:E100",
+            "rule_type": "expression",
+            "formula": "=$E2=\"High Value\"",
+            "fill_color": "92D050",
+            "font_color": "000000",
+            "bold": true
+        },
+        {
+            "type": "conditional_format",
+            "sheet": "Raw Data",
+            "range": "B2:B100",
+            "rule_type": "data_bar",
+            "color": "5B9BD5"
+        },
+        {
+            "type": "data_validation",
+            "sheet": "Raw Data",
+            "range": "F2:F100",
+            "header_cell": "F1",
+            "header": "Review",
+            "validation_type": "list",
+            "options": ["Pending", "Approved", "Rejected"],
+            "prompt": "Choose a review status"
+        },
+        {
+            "type": "chart",
+            "sheet": "Raw Data",
+            "chart_type": "bar",
+            "data_range": "D1:D10",
+            "category_range": "A2:A10",
+            "title": "Revenue by Product",
+            "x_axis_title": "Product",
+            "y_axis_title": "Revenue",
+            "top_left_cell": "H2"
+        },
+        {
+            "type": "summary",
+            "sheet": "Summary",
+            "source_sheet": "Raw Data",
+            "metrics": [
+                {"label": "Total Revenue", "function": "SUM", "column": "D", "number_format": "#,##0.00"},
+                {"label": "Average Revenue per Product", "function": "AVERAGE", "column": "D", "number_format": "#,##0.00"},
+                {"label": "Highest Revenue", "function": "MAX", "column": "D", "number_format": "#,##0.00"},
+                {"label": "Total Units Sold", "function": "SUM", "column": "B"},
+                {"label": "High Value Products", "function": "COUNTIF", "column": "E", "criteria": "High Value"}
+            ]
+        },
+        {
+            "type": "chart",
+            "sheet": "Summary",
+            "chart_type": "pie",
+            "data_range": "'Raw Data'!D1:D10",
+            "category_range": "'Raw Data'!A2:A10",
+            "title": "Revenue Share by Product",
+            "top_left_cell": "D2"
+        },
+        {
+            "type": "protect_sheet",
+            "sheet": "Summary"
+        }
+    ],
+    "auto_fit_sheets": ["Raw Data"],
+    "google_sheets": {
+        "enabled": false,
+        "credentials_file": "configs/service_account.json",
+        "spreadsheet_id": "YOUR_SPREADSHEET_ID",
+        "sheets": ["Raw Data", "Summary"]
+    }
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+# Jupyter/Colab notebooks
+.ipynb_checkpoints/
+# VS Code workspace settings
+.vscode/
+
+# Environment variables - DO NOT COMMIT YOUR .env FILE
+.env
+
+# macOS
+.DS_Store
+
+# Log files (if configured)
+*.log
+
+# Generated files / downloaded attachments
+data/incoming_attachments/
+data/dry_run_mailbox/
+/reports/
