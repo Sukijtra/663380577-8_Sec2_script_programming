@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "description": "Read lecture notes",
+        "completed": true,
+        "tags": [
+            "study",
+            "python"
+        ],
+        "_type": "Task"
+    },
+    {
+        "id": 2,
+        "description": "Submit Week 11 lab",
+        "completed": false,
+        "tags": [
+            "school",
+            "urgent"
+        ],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-30"
+    },
+    {
+        "id": 3,
+        "description": "Refactor CLI",
+        "completed": false,
+        "tags": [
+            "work"
+        ],
+        "_type": "PriorityTask",
+        "priority": "High"
+    },
+    {
+        "id": 4,
+        "description": "Write PLAN.md",
+        "completed": false,
+        "tags": [],
+        "_type": "PriorityTask",
+        "priority": "Medium"
+    }
+]

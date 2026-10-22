@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "description": "Finish Week 7 lab",
+        "completed": false
+    }
+]

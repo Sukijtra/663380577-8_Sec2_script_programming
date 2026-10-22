@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+# For Jupyter/Colab notebooks
+.ipynb_checkpoints/
+# VS Code workspace settings if you don't want to share
+.vscode/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Data files (optional, if you want to regenerate them easily)
+# data/tasks.json
