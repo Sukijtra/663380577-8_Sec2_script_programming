@@ -11,7 +11,7 @@
 | [`LabX Advance/`](LabX%20Advance) | LabX Advance |
 | [`Class Activity/`](Class%20Activity) | Class Activity 1 – 4 |
 | [`Mini Project/`](Mini%20Project) | Mini Project |
-| [`Final Project/`](Final%20Project) | Final Project |
+| [`Final Project/`](Final%20Project) | Final Project → [rapee29/final-project](https://github.com/rapee29/final-project) |
 | [`certificate/`](certificate) | ใบประกาศนียบัตร |
 
 ```
@@ -36,7 +36,7 @@
 │   ├── Class Activity 3 - Interacting with Web APIs/
 │   └── Class Activity 4 - Project Planning & Design/
 ├── Mini Project/
-├── Final Project/
+├── Final Project/                                       # ลิงก์ไป https://github.com/rapee29/final-project
 └── certificate/
     └── Python_Essentials_1_certificate.pdf
 ```
