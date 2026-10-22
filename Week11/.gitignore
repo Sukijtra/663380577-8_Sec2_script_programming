@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+
+# macOS
+.DS_Store
+
+# Intermediate PDFs (generated before merging)
+output/parts/

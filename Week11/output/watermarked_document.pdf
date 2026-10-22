@@ -1,0 +1,557 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 10 0 R 16 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2061
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 178.9289 0 Td (Tasks - Done) Tj T* -178.9289 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 739.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total tasks: 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 68.0315 653.0236 cm
+q
+.184314 .329412 .588235 rg
+n 0 72 459.2126 -18 re f*
+1 1 1 rg
+n 0 54 459.2126 -18 re f*
+.933333 .94902 .972549 rg
+n 0 36 459.2126 -18 re f*
+1 1 1 rg
+n 0 18 459.2126 -18 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 59 Tm (ID) Tj T* ET
+BT 1 0 0 1 40.01575 59 Tm (Task) Tj T* ET
+BT 1 0 0 1 246.9449 59 Tm (Category) Tj T* ET
+BT 1 0 0 1 331.9843 59 Tm (Priority) Tj T* ET
+BT 1 0 0 1 394.3465 59 Tm (Due Date) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 41 Tm (1) Tj T* ET
+BT 1 0 0 1 40.01575 41 Tm (Define project requirements) Tj T* ET
+BT 1 0 0 1 246.9449 41 Tm (Planning) Tj T* ET
+BT 1 0 0 1 331.9843 41 Tm (High) Tj T* ET
+BT 1 0 0 1 394.3465 41 Tm (2026-10-05) Tj T* ET
+BT 1 0 0 1 6 23 Tm (2) Tj T* ET
+BT 1 0 0 1 40.01575 23 Tm (Design data model for tasks) Tj T* ET
+BT 1 0 0 1 246.9449 23 Tm (Design) Tj T* ET
+BT 1 0 0 1 331.9843 23 Tm (High) Tj T* ET
+BT 1 0 0 1 394.3465 23 Tm (2026-10-08) Tj T* ET
+BT 1 0 0 1 6 5 Tm (3) Tj T* ET
+BT 1 0 0 1 40.01575 5 Tm (Draw workflow / flowchart) Tj T* ET
+BT 1 0 0 1 246.9449 5 Tm (Design) Tj T* ET
+BT 1 0 0 1 331.9843 5 Tm (Medium) Tj T* ET
+BT 1 0 0 1 394.3465 5 Tm (2026-10-10) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 72 m 459.2126 72 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 72 l S
+n 459.2126 0 m 459.2126 72 l S
+n 0 54 m 459.2126 54 l S
+n 0 36 m 459.2126 36 l S
+n 0 18 m 459.2126 18 l S
+n 34.01575 0 m 34.01575 72 l S
+n 240.9449 0 m 240.9449 72 l S
+n 325.9843 0 m 325.9843 72 l S
+n 388.3465 0 m 388.3465 72 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 60 Tf
+72 TL
+ET
+1 0 0 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -223.32 0 Tm
+(CONFIDENTIAL) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 13 0 R
+/F2 14 0 R
+/F2-0 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 1799
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 151.9109 0 Td (Tasks - In Progress) Tj T* -151.9109 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 739.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total tasks: 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 68.0315 671.0236 cm
+q
+.184314 .329412 .588235 rg
+n 0 54 459.2126 -18 re f*
+1 1 1 rg
+n 0 36 459.2126 -18 re f*
+.933333 .94902 .972549 rg
+n 0 18 459.2126 -18 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 41 Tm (ID) Tj T* ET
+BT 1 0 0 1 40.01575 41 Tm (Task) Tj T* ET
+BT 1 0 0 1 246.9449 41 Tm (Category) Tj T* ET
+BT 1 0 0 1 331.9843 41 Tm (Priority) Tj T* ET
+BT 1 0 0 1 394.3465 41 Tm (Due Date) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 23 Tm (4) Tj T* ET
+BT 1 0 0 1 40.01575 23 Tm (Implement add / edit / delete task) Tj T* ET
+BT 1 0 0 1 246.9449 23 Tm (Development) Tj T* ET
+BT 1 0 0 1 331.9843 23 Tm (High) Tj T* ET
+BT 1 0 0 1 394.3465 23 Tm (2026-10-20) Tj T* ET
+BT 1 0 0 1 6 5 Tm (5) Tj T* ET
+BT 1 0 0 1 40.01575 5 Tm (Add task priority and categories) Tj T* ET
+BT 1 0 0 1 246.9449 5 Tm (Development) Tj T* ET
+BT 1 0 0 1 331.9843 5 Tm (Medium) Tj T* ET
+BT 1 0 0 1 394.3465 5 Tm (2026-10-24) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 54 m 459.2126 54 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 54 l S
+n 459.2126 0 m 459.2126 54 l S
+n 0 36 m 459.2126 36 l S
+n 0 18 m 459.2126 18 l S
+n 34.01575 0 m 34.01575 54 l S
+n 240.9449 0 m 240.9449 54 l S
+n 325.9843 0 m 325.9843 54 l S
+n 388.3465 0 m 388.3465 54 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 60 Tf
+72 TL
+ET
+1 0 0 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -223.32 0 Tm
+(CONFIDENTIAL) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 18 0 R
+/F1-0 19 0 R
+/F2 20 0 R
+/F2-0 21 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 2391
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 175.9319 0 Td (Tasks - To Do) Tj T* -175.9319 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 739.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total tasks: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 68.0315 635.0236 cm
+q
+.184314 .329412 .588235 rg
+n 0 90 459.2126 -18 re f*
+1 1 1 rg
+n 0 72 459.2126 -18 re f*
+.933333 .94902 .972549 rg
+n 0 54 459.2126 -18 re f*
+1 1 1 rg
+n 0 36 459.2126 -18 re f*
+.933333 .94902 .972549 rg
+n 0 18 459.2126 -18 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 77 Tm (ID) Tj T* ET
+BT 1 0 0 1 40.01575 77 Tm (Task) Tj T* ET
+BT 1 0 0 1 246.9449 77 Tm (Category) Tj T* ET
+BT 1 0 0 1 331.9843 77 Tm (Priority) Tj T* ET
+BT 1 0 0 1 394.3465 77 Tm (Due Date) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 59 Tm (6) Tj T* ET
+BT 1 0 0 1 40.01575 59 Tm (Save and load tasks from JSON) Tj T* ET
+BT 1 0 0 1 246.9449 59 Tm (Development) Tj T* ET
+BT 1 0 0 1 331.9843 59 Tm (Medium) Tj T* ET
+BT 1 0 0 1 394.3465 59 Tm (2026-10-27) Tj T* ET
+BT 1 0 0 1 6 41 Tm (7) Tj T* ET
+BT 1 0 0 1 40.01575 41 Tm (Export task report to Word / PDF) Tj T* ET
+BT 1 0 0 1 246.9449 41 Tm (Development) Tj T* ET
+BT 1 0 0 1 331.9843 41 Tm (Low) Tj T* ET
+BT 1 0 0 1 394.3465 41 Tm (2026-10-30) Tj T* ET
+BT 1 0 0 1 6 23 Tm (8) Tj T* ET
+BT 1 0 0 1 40.01575 23 Tm (Write unit tests) Tj T* ET
+BT 1 0 0 1 246.9449 23 Tm (Testing) Tj T* ET
+BT 1 0 0 1 331.9843 23 Tm (Medium) Tj T* ET
+BT 1 0 0 1 394.3465 23 Tm (2026-11-02) Tj T* ET
+BT 1 0 0 1 6 5 Tm (9) Tj T* ET
+BT 1 0 0 1 40.01575 5 Tm (Write README and record demo video) Tj T* ET
+BT 1 0 0 1 246.9449 5 Tm (Documentation) Tj T* ET
+BT 1 0 0 1 331.9843 5 Tm (Low) Tj T* ET
+BT 1 0 0 1 394.3465 5 Tm (2026-11-05) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 90 m 459.2126 90 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 90 l S
+n 459.2126 0 m 459.2126 90 l S
+n 0 72 m 459.2126 72 l S
+n 0 54 m 459.2126 54 l S
+n 0 36 m 459.2126 36 l S
+n 0 18 m 459.2126 18 l S
+n 34.01575 0 m 34.01575 90 l S
+n 240.9449 0 m 240.9449 90 l S
+n 325.9843 0 m 325.9843 90 l S
+n 388.3465 0 m 388.3465 90 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 60 Tf
+72 TL
+ET
+1 0 0 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -223.32 0 Tm
+(CONFIDENTIAL) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000470 00000 n 
+0000002583 00000 n 
+0000002690 00000 n 
+0000002797 00000 n 
+0000002909 00000 n 
+0000003021 00000 n 
+0000003321 00000 n 
+0000005173 00000 n 
+0000005281 00000 n 
+0000005389 00000 n 
+0000005502 00000 n 
+0000005615 00000 n 
+0000005915 00000 n 
+0000008359 00000 n 
+0000008467 00000 n 
+0000008575 00000 n 
+0000008688 00000 n 
+trailer
+<<
+/Size 22
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8801
+%%EOF
